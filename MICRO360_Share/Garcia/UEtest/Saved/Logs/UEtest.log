@@ -706,3 +706,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-10.53.48:533][240]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.02.04-10.53.48:533][240]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/Kadal.uasset
 [2020.02.04-10.53.48:538][240]SourceControl: Commited [master 642976f] i addedOne.
+[2020.02.04-10.58.44:929][767]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-10.58.44:951][767]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.02.04-10.58.44:952][767]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.02.04-10.58.44:952][767]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.02.04-10.59.27:631][ 61]SourceControl: fatal: D:/Epic Games/UE_4.24/Engine/Content: 'D:/Epic Games/UE_4.24/Engine/Content' is outside repository
+[2020.02.04-10.59.31:393][ 61]LogSlate: Window 'Submit Files' being destroyed
+[2020.02.04-10.59.32:058][ 61]LogSourceControl: commit successful: [master 8fce601] we
+[2020.02.04-10.59.32:135][ 61]SourceControl: [master 8fce601] we
+[2020.02.04-10.59.32:135][ 61]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2020.02.04-10.59.32:135][ 61]SourceControl:  delete mode 100644 MICRO360_Share/Garcia/UEtest/Content/Kadal.uasset
+[2020.02.04-10.59.32:135][ 61]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/NewMaterial.uasset
+[2020.02.04-10.59.32:135][ 61]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/s.umap
+[2020.02.04-10.59.32:135][ 61]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/s_BuiltData.uasset
+[2020.02.04-10.59.32:141][ 61]SourceControl: Commited [master 8fce601] we.
