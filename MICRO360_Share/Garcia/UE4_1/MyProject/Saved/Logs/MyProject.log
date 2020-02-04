@@ -788,3 +788,116 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-09.55.20:561][114]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/NewMaterialB8F9D94C462973E07B2DADB9A61AFFA7.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/NewMaterial.uasset'
 [2020.02.04-09.55.20:573][114]AssetCheck: New page: Asset Save: NewMaterial
 [2020.02.04-09.55.20:573][114]LogContentValidation: Display: Validating Material /Game/NewMaterial.NewMaterial
+[2020.02.04-09.57.04:944][384]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/NewMaterial.NewMaterial
+[2020.02.04-09.57.05:015][384]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.05:233][384]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.05:263][384]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.05:278][384]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.04-09.57.05:278][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.04-09.57.05:278][384]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.04-09.57.05:278][384]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.04-09.57.06:217][424]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.02.04-09.57.06:518][439]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.02.04-09.57.06:560][441]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.04-09.57.06:631][445]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.02.04-09.57.07:014][465]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.02.04-09.57.07:407][484]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.07:432][484]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.04-09.57.07:432][484]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.04-09.57.07:432][484]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.02.04-09.57.07:432][484]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.02.04-09.57.07:432][484]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.04-09.57.07:946][508]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.02.04-09.57.08:324][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.02.04-09.57.08:415][530]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.02.04-09.57.08:432][531]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.02.04-09.57.08:737][548]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.04-09.57.08:754][549]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.02.04-09.57.08:918][557]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.08:989][557]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.04-09.57.08:989][557]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.04-09.57.09:000][557]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.02.04-09.57.09:145][565]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.04-09.57.09:257][571]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.04-09.57.09:623][587]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.04-09.57.09:748][591]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.04-09.57.09:843][596]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.04-09.57.10:113][609]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.04-09.57.10:319][619]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.04-09.57.10:560][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.04-09.57.10:630][635]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.04-09.57.10:827][646]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.04-09.57.10:874][649]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.02.04-09.57.10:911][650]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.10:938][650]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.04-09.57.11:181][660]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.02.04-09.57.11:298][666]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.04-09.57.11:313][667]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.02.04-09.57.11:374][671]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.04-09.57.11:700][689]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.11:746][689]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.02.04-09.57.11:746][689]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.04-09.57.11:912][696]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.02.04-09.57.12:086][704]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.02.04-09.57.12:106][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.04-09.57.12:485][724]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.12:510][724]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.02.04-09.57.12:521][724]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.02.04-09.57.12:521][724]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.04-09.57.12:601][728]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.02.04-09.57.12:735][734]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.02.04-09.57.12:903][742]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.02.04-09.57.13:256][756]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2020.02.04-09.57.13:919][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.02.04-09.57.13:919][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.04-09.57.13:919][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.02.04-09.57.13:919][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.02.04-09.57.13:919][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.02.04-09.57.13:919][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.02.04-09.57.13:919][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.02.04-09.57.13:959][756]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.14:045][756]LogMaterial: Display: Missing cached shader map for material NewMaterial, compiling. 
+[2020.02.04-09.57.14:095][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 26
+[2020.02.04-09.57.14:095][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.02.04-09.57.14:111][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.02.04-09.57.14:111][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 26
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 19
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 17
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.02.04-09.57.15:352][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.02.04-09.57.15:355][756]TextureStreamingBuild: Display: Compiling optional shaders took 1.259 seconds.
+[2020.02.04-09.57.15:378][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.02.04-09.57.16:794][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.02.04-09.57.16:794][756]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.02.04-09.57.16:794][756]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.02.04-09.57.16:828][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/NewMaterial.uasset" SILENT=true
+[2020.02.04-09.57.16:839][756]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/NewMaterial4E79EF344A008C0814BEF1A559B5AB2A.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/NewMaterial.uasset'
+[2020.02.04-09.57.16:870][756]AssetCheck: New page: Asset Save: NewMaterial
+[2020.02.04-09.57.16:871][756]LogContentValidation: Display: Validating Material /Game/NewMaterial.NewMaterial
+[2020.02.04-09.57.16:875][756]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.02.04-09.57.16:875][756]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.02.04-09.57.16:875][756]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.04-09.57.16:875][756]MaterialEditorStats: Texture samplers: 3/16
+[2020.02.04-09.57.18:741][902]LogSlate: Window 'NewMaterial' being destroyed
+[2020.02.04-09.57.18:753][902]LogSlate: Window 'NewMaterial' being destroyed
+[2020.02.04-09.57.18:774][902]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-09.57.18:774][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-09.57.21:774][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/NewMaterial.uasset" SILENT=true
+[2020.02.04-09.57.21:777][251]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/NewMaterial0BF5B1894E2111EA0C330FAA29C255AC.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/NewMaterial.uasset'
+[2020.02.04-09.57.21:788][251]AssetCheck: New page: Asset Save: NewMaterial
+[2020.02.04-09.57.21:788][251]LogContentValidation: Display: Validating Material /Game/NewMaterial.NewMaterial
+[2020.02.04-09.57.23:340][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GT_materials" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/GT_materials.uasset" SILENT=true
+[2020.02.04-09.57.23:343][429]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/GT_materials69B8C62C4749BC1FECEA9E8B01CB8478.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/GT_materials.uasset'
+[2020.02.04-09.57.23:354][429]AssetCheck: New page: Asset Save: GT_materials
+[2020.02.04-09.57.23:354][429]LogContentValidation: Display: Validating Material /Game/GT_materials.GT_materials
