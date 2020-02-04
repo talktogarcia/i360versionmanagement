@@ -927,3 +927,24 @@ Script Stack (0 frames):
 [2020.02.04-11.01.39:162][134]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2020.02.04-11.01.39:162][134]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/NewMaterial.uasset
 [2020.02.04-11.01.39:174][134]SourceControl: Commited [master 34f329b] ss.
+[2020.02.04-11.04.31:847][799]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.04-11.04.34:201][974]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2020.02.04-11.04.34:593][974]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.02.04-11.04.37:275][ 43]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.04-11.04.42:728][406]BlueprintLog: New page: Compile NewBlueprint
+[2020.02.04-11.04.43:314][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2020.02.04-11.04.43:957][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Content/NewBlueprint.uasset" SILENT=true
+[2020.02.04-11.04.43:962][437]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Saved/NewBlueprint360E8B69482B2A1928BCF7813263A5DC.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Content/NewBlueprint.uasset'
+[2020.02.04-11.04.44:255][437]AssetCheck: New page: Asset Save: NewBlueprint
+[2020.02.04-11.04.44:255][437]LogContentValidation: Display: Validating Blueprint /Game/NewBlueprint.NewBlueprint
+[2020.02.04-11.04.45:176][499]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.04.45:185][499]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.04.45:189][499]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-11.04.45:189][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-11.05.03:573][990]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.04-11.05.18:564][ 52]LogSlate: Window 'Submit Files' being destroyed
+[2020.02.04-11.05.19:162][ 52]LogSourceControl: commit successful: [master 07e50fe] zxxx
+[2020.02.04-11.05.19:207][ 52]SourceControl: [master 07e50fe] zxxx
+[2020.02.04-11.05.19:207][ 52]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.02.04-11.05.19:207][ 52]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/NewBlueprint.uasset
+[2020.02.04-11.05.19:219][ 52]SourceControl: Commited [master 07e50fe] zxxx.
