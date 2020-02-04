@@ -777,3 +777,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-09.41.54:229][424]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.04-09.41.54:230][424]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
 [2020.02.04-09.41.54:230][424]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2020.02.04-09.51.54:594][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2020.02.04-09.51.54:596][705]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/NewMap' took 0.026
+[2020.02.04-09.51.54:596][705]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GT_materials] ([1] browsable assets)...
+[2020.02.04-09.51.54:596][705]OBJ SavePackage: Finished generating thumbnails for package [/Game/GT_materials]
+[2020.02.04-09.51.54:596][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GT_materials" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/Autosaves/Game/GT_materials_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.02.04-09.51.54:627][705]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/GT_materials_Auto1939DFE3E43ACDA8624879296B92E632E.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/Autosaves/Game/GT_materials_Auto1.uasset'
+[2020.02.04-09.51.54:629][705]LogFileHelpers: Auto-saving content packages took 0.034
