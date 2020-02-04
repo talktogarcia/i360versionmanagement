@@ -791,3 +791,12 @@ Script Stack (0 frames):
 [2020.02.04-10.53.41:081][844]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/slo.uasset
 [2020.02.04-10.53.41:081][844]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/UEtest.uproject
 [2020.02.04-10.53.41:095][844]SourceControl: Commited [master 45bd97e] changed.
+[2020.02.04-10.58.19:902][651]SourceControl: fatal: /Temp: '/Temp' is outside repository
+[2020.02.04-10.58.26:899][651]LogSlate: Window 'Save Level As' being destroyed
+[2020.02.04-10.58.26:912][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/s" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Content/s.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.04-10.58.26:935][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.02.04-10.58.26:949][651]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Saved/sA85CABF84BEE2A193B3A6A84C94C2219.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Content/s.umap'
+[2020.02.04-10.58.27:181][651]LogFileHelpers: Saving map 's' took 0.271
+[2020.02.04-10.58.27:189][651]AssetCheck: New page: Asset Save: s
+[2020.02.04-10.58.27:189][651]LogContentValidation: Display: Validating World /Game/s.s
+[2020.02.04-10.58.27:330][655]SourceControl: fatal: /Temp: '/Temp' is outside repository
