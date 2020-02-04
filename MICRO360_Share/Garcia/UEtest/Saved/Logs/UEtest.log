@@ -720,3 +720,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-10.59.32:135][ 61]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/s.umap
 [2020.02.04-10.59.32:135][ 61]SourceControl:  create mode 100644 MICRO360_Share/Garcia/UEtest/Content/s_BuiltData.uasset
 [2020.02.04-10.59.32:141][ 61]SourceControl: Commited [master 8fce601] we.
+[2020.02.04-11.03.06:167][ 98]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2020.02.04-11.03.06:459][ 98]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.02.04-11.03.26:080][868]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.03.26:096][868]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.03.26:108][868]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-11.03.26:108][868]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-11.03.36:865][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2020.02.04-11.03.40:941][ 10]LogRenderer: Reallocating scene render targets to support 996x744 Format 10 NumSamples 1 (Frame:1).
+[2020.02.04-11.04.01:576][176]LogSlate: Took 0.016348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.04-11.04.04:662][368]BlueprintLog: New page: Compile NewBlueprint
+[2020.02.04-11.04.04:664][368]LogBlueprint: Error: [Compiler NewBlueprint] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.02.04-11.04.04:881][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.02.04-11.04.20:334][116]BlueprintLog: New page: Compile NewBlueprint
+[2020.02.04-11.04.20:336][116]LogBlueprint: Error: [Compiler NewBlueprint] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2020.02.04-11.04.20:536][116]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.02.04-11.04.22:677][243]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.04.22:694][243]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.04.22:706][243]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-11.04.22:706][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-11.04.25:053][460]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/NewBlueprint.NewBlueprint
+[2020.02.04-11.04.57:538][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="../../../../../I360GIT/t/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Content/NewBlueprint.uasset" SILENT=true
+[2020.02.04-11.04.57:551][338]LogSavePackage: Moving '../../../../../I360GIT/t/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Saved/NewBlueprint5E53FACB466BC0E36D2A8C994BF0DBAB.tmp' to '../../../../../I360GIT/t/i360versionmanagenment/MICRO360_Share/Garcia/UEtest/Content/NewBlueprint.uasset'
+[2020.02.04-11.04.57:566][338]AssetCheck: New page: Asset Save: NewBlueprint
+[2020.02.04-11.04.57:566][338]LogContentValidation: Display: Validating Blueprint /Game/NewBlueprint.NewBlueprint
+[2020.02.04-11.04.58:687][404]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.04.58:693][404]LogSlate: Window 'NewBlueprint' being destroyed
+[2020.02.04-11.04.58:700][404]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.02.04-11.04.58:700][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.04-11.05.04:959][710]LogSlate: Window 'Submit Files' being destroyed
+[2020.02.04-11.05.05:498][710]LogSourceControl: commit successful: [master 11e0dc6] d
+[2020.02.04-11.05.05:575][710]SourceControl: [master 11e0dc6] d
+[2020.02.04-11.05.05:575][710]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.02.04-11.05.05:575][710]SourceControl:  rewrite MICRO360_Share/Garcia/UEtest/Content/NewBlueprint.uasset (66%)
+[2020.02.04-11.05.05:579][710]SourceControl: Commited [master 11e0dc6] d.
