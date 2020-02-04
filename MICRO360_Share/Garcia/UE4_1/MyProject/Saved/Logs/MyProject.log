@@ -784,3 +784,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.04-09.51.54:596][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GT_materials" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/Autosaves/Game/GT_materials_Auto1.uasset" SILENT=false AUTOSAVING=true
 [2020.02.04-09.51.54:627][705]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/GT_materials_Auto1939DFE3E43ACDA8624879296B92E632E.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/Autosaves/Game/GT_materials_Auto1.uasset'
 [2020.02.04-09.51.54:629][705]LogFileHelpers: Auto-saving content packages took 0.034
+[2020.02.04-09.55.20:551][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMaterial" FILE="D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/NewMaterial.uasset" SILENT=true
+[2020.02.04-09.55.20:561][114]LogSavePackage: Moving 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Saved/NewMaterialB8F9D94C462973E07B2DADB9A61AFFA7.tmp' to 'D:/Clone/i360versionmanagenment/MICRO360_Share/Garcia/UE4_1/MyProject/Content/NewMaterial.uasset'
+[2020.02.04-09.55.20:573][114]AssetCheck: New page: Asset Save: NewMaterial
+[2020.02.04-09.55.20:573][114]LogContentValidation: Display: Validating Material /Game/NewMaterial.NewMaterial
